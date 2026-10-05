@@ -1,0 +1,7 @@
+{
+  "name": "Juniper & Sprout Toymakers",
+  "description": "A delightful local neighborhood toy shop offering handcrafted wooden toys, STEM puzzles, organic plush, and nostalgic games with in-store pickup and gift wrapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
